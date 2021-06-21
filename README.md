@@ -1,1 +1,1 @@
-# App para fazer perguntas
+# App para fazer perguntas sobre programação
