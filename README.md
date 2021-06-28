@@ -1,1 +1,1 @@
-# App para fazer perguntas sobre programação
+# App para fazer perguntas sobre programação, feita no NLW_07
