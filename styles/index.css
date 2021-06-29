@@ -24,6 +24,8 @@ main {
 
     display: flex;
     align-items: center;
+
+    margin-top: -22rem;
 }
 
 main .container {
