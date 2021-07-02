@@ -1,0 +1,24 @@
+{
+  "name": "pergunte",
+  "version": "1.0.0",
+  "description": "Projecto desenvolvido para gerenciar perguntas anónimas de usuários direcionadas ao dono da página",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel8Dias/Pergunte.git"
+  },
+  "keywords": [],
+  "author": "Manuel Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel8Dias/Pergunte/issues"
+  },
+  "homepage": "https://github.com/Manuel8Dias/Pergunte#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
