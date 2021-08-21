@@ -1,8 +1,8 @@
 <section>
     <h2>Crie a sua própria sala</h2>
-    <form action="/room/create-room">
+    <form action="/create-room" method="POST">
         <label class="sr-only" for="room-pass">Insira um password</label>
-        <input type="password " id="room-pass" placeholder="Insira um password">
+        <input type="password" name="password" id="room-pass" placeholder="Insira um password">
         <button>
             <img src="images/usersBranco.svg" alt="Criar sala">
             Criar sala
