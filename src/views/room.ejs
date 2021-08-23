@@ -45,7 +45,7 @@
         <main>
             <section id="question-form">
                 <h2>Faça a sua pergunta</h2>
-                <form action="/question/create/:room" method="POST">
+                <form action="/question/create/<%= roomId %>" method="POST">
                     <label class="sr-only" for-id="question">
                         O que você quer perguntar?
                     </label>
